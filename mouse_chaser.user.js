@@ -8,6 +8,7 @@
 // @grant        none
 // @copyright 2018, cherylqian (https://openuserjs.org//users/cherylqian)
 // @updateURL https://openuserjs.org/meta/cherylqian/Mouse_chaser.meta.js
+// @supportURL https://github.com/cherylqian/mousechaser/issues
 // @license MIT
 // ==/UserScript==
 
